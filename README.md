@@ -1,5 +1,5 @@
 # ArPanEmo
-An Open-source Dataset for Fine-grained Emotion Recognition for Online Arabic Posts during COVID-19 Pandemic
+An Open-source Dataset for Fine-grained Emotion Recognition in Online Arabic Posts during COVID-19 Pandemic
 
 ArPanEmo is a new dataset for fine-grained emotion recognition of online posts in Arabic. The dataset consists of 11,128 online posts manually labelled for ten emotion categories or neutral, with Fleiss’ kappa of 0.71. 
 
